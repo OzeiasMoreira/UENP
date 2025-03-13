@@ -11,7 +11,7 @@ Lista* criar(int data){
     Lista* lst = (Lista*)malloc(sizeof(Lista));
     if (!lst)
     {
-        printf("Erro ao alocar memoria!");
+        printf("Erro ao alocar memoria! \n");
         exit(1);
     }
     

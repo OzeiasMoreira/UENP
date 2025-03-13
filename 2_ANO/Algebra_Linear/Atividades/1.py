@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import linprog
 
-# Coeficientes da função objetivo (custo)
+# Coeficientes da função objetivo
 c = [8, 9]  # 8 centavos por kg do ingrediente A, 9 centavos por kg do ingrediente B
 
 # Coeficientes das restrições (A)

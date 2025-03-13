@@ -30,7 +30,7 @@ while calculaMedia:
 media = somaTotal / quantNotas
 print(f"Media:{media}")
 
-dificuldade = int(input("Escolha a dificuldade de 1 a 10"))
+dificuldade = int(input("Escolha a dificuldade de 1 a 10."))
 
 if dificuldade > 10 or dificuldade < 1:
   quit()

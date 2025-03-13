@@ -122,8 +122,8 @@ void removerRegistro(int codigo){
     Registro registro;
     FILE *arquivo;
     FILE *arquivoTemp;
-    arquivo = fopen("arquivo.bin", "rb");  // Abre o arquivo para leitura
-    arquivoTemp = fopen("arquivoTemp.bin", "wb"); // Abre o arquivo para gravacação, e como ele n existe ele é criado
+    arquivo = fopen("arquivo.bin", "rb");  
+    arquivoTemp = fopen("arquivoTemp.bin", "wb"); 
     if(arquivo == NULL){
         printf("Erro ao abrir o arquivo \n");
     }else{

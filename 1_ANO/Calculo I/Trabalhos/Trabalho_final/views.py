@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 
-# Seus dados
 x = np.array([0, 2.42, 4.6, 6.69, 8.71, 10.7, 12.66, 14.56, 16.43, 18.29, 20.13])
 
 # Transforme os recursos para incluir termos polinomiais de grau 2
