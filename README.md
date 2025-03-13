@@ -1,8 +1,8 @@
-📚 Repositório da Faculdade - UENP
+🎓 Repositório Acadêmico - UENP
 
 
 
-Este repositório contém todos os conteúdos estudados ao longo dos 4 anos da minha graduação na Universidade Estadual do Norte do Paraná (UENP). Aqui estão organizados os códigos, materiais, anotações e projetos desenvolvidos durante a jornada acadêmica.
+Este repositório contém todos os conteúdos estudados ao longo dos 4 anos da minha graduação na Universidade Estadual do Norte do Paraná (UENP). Aqui estão organizados códigos, materiais, anotações e projetos desenvolvidos durante minha jornada acadêmica.
 
 🏛 Sobre a UENP
 
@@ -12,25 +12,44 @@ A Universidade Estadual do Norte do Paraná (UENP) é uma instituição de ensin
 
 Durante minha graduação, utilizei diversas tecnologias e linguagens de programação, incluindo:
 
-📌 Linguagens
+📌 Linguagens de Programação
+
+Linguagem
+
+
+C
 
 
 
+C++
 
 
 
+Java
 
 
 
+Python
 
 
 
+JavaScript
+
+
+
+R
+
+
+
+SQL
 
 
 
 📚 Frameworks e Bibliotecas
 
-Flutter, React, Pandas, NumPy
+Front-end & Mobile: Flutter, React
+
+Data Science: Pandas, NumPy
 
 🛠 Ferramentas
 
@@ -51,7 +70,6 @@ Este repositório tem como objetivo:
 ✅ Auxiliar estudantes que estão cursando disciplinas semelhantes;
 ✅ Compartilhar conhecimento e boas práticas de desenvolvimento.
 
-🤝 Contribuições
 
 Caso tenha interesse em contribuir ou discutir sobre algum dos temas abordados, fique à vontade para abrir uma issue ou entrar em contato.
 
@@ -59,7 +77,7 @@ Caso tenha interesse em contribuir ou discutir sobre algum dos temas abordados, 
 
 Este repositório é de uso pessoal e acadêmico. Caso utilize algum material, mencione a fonte e respeite os direitos autorais.
 
-📌 Autor: [Seu Nome]
+📌 Autor: Ozeias Moreira
 
 Se você gostou do conteúdo ou achou útil, deixe uma ⭐ no repositório!
 
