@@ -2,7 +2,7 @@
 
 
 
-Este repositório contém todos os conteúdos estudados ao longo dos 4 anos da minha graduação na Universidade Estadual do Norte do Paraná (UENP). Aqui estão organizados códigos, materiais, anotações e projetos desenvolvidos durante minha jornada acadêmica.
+    Este repositório contém todos os conteúdos estudados ao longo dos 4 anos da minha graduação na Universidade Estadual do Norte do Paraná (UENP). Aqui estão organizados códigos, materiais, anotações e projetos     desenvolvidos durante minha jornada acadêmica.
 
 🏛 Sobre a UENP
 
