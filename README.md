@@ -8,62 +8,6 @@
 A Universidade Estadual do Norte do Paraná (UENP) é uma instituição de ensino superior pública que busca excelência no ensino, pesquisa e extensão. Durante minha graduação, explorei diversas disciplinas e tecnologias voltadas para a área de computação e tecnologia.
 
 
-🚀 TECNOLOGIAS UTILIZADAS
-
-Durante minha graduação, utilizei diversas tecnologias e linguagens de programação, incluindo:
-
-
-📌 LINGUAGENS DE PROGRAMAÇÃO
-
-Linguagem
-
-
-C
-
-
-
-C++
-
-
-
-Java
-
-
-
-Python
-
-
-
-JavaScript
-
-
-
-R
-
-
-
-SQL
-
-
-
-📚 FRAMEWORKS E BIBLIOTECAS
-
-Front-end & Mobile: Flutter, React
-
-Data Science: Pandas, NumPy
-
-🛠 Ferramentas
-
-VSCode, Git, Power BI, Scene Builder
-
-🗄 Bancos de Dados
-
-SQLite, MySQL
-
-🎓 Paradigmas
-
-Programação Imperativa, Orientada a Objetos e Funcional
-
 
 🎯 OBJETIVO DO REPOSITÓRIO
 
