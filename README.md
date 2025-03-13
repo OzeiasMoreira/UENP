@@ -17,8 +17,6 @@ Este repositório tem como objetivo:
 ✅ Compartilhar conhecimento e boas práticas de desenvolvimento.
 
 
-Caso tenha interesse em contribuir ou discutir sobre algum dos temas abordados, fique à vontade para abrir uma issue ou entrar em contato.
-
 
 📜 LICENÇA
 
