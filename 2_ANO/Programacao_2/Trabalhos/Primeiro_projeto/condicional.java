@@ -1,0 +1,27 @@
+package ALURA.PARTE1.primeiroprojeto;
+
+
+public class condicional {
+    public static void main(String[] args) {
+        int anoDeLancamento = 1990;
+        boolean incluidoNoPlano = true;
+        double notaDoFilme = 8.1;
+        String tipoPlano = "plus";
+
+        if(anoDeLancamento >= 2022){
+
+            System.out.println("Lançamento que outros estão curtindo!");
+        } else {
+
+            System.out.println("Filmes retro que valem a pena assistir!");
+        }
+
+        if (incluidoNoPlano == true || tipoPlano.equals("plus")){
+            System.out.println("Filme liberado!");
+        } else {
+
+            System.out.println("Deseja assinar nosso plano?");
+        }
+    }
+    
+}
