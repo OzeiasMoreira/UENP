@@ -25,7 +25,7 @@ else:
 
 
 carteira = 1.5
-coxinha = 6
+coxinha = 5
 refrigerante = 4
 empada = 3.5
 brigadeiro = 2

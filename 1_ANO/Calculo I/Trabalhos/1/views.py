@@ -1,10 +1,11 @@
 from sympy import *
-x, y, z = symbols('x y z')
-init_printing(use_unicode=True)
 import sympy as sp
 
 import numpy as np
 import matplotlib.pyplot as plt
+
+x, y, z = symbols('x y z')
+init_printing(use_unicode=True)
 
 def f(x):
   return 0.0000177548197*x**5 - 0.0011574882874*x**4 + 0.029055251907*x**3 - 0.3915914962462*x**2 + 2.6805262028342*x + 0.0477329172169

@@ -32,7 +32,7 @@ public class Coxinha {
         if(coxinhas <= 0){
            Alert alert = new Alert(Alert.AlertType.ERROR);
             alert.setHeaderText(null);
-            alert.setContentText("Não há coxinhas para vender");
+            alert.setContentText("Não há coxinhas para vender! ");
             alert.show();
             return; 
         } else {

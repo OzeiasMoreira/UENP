@@ -22,7 +22,7 @@ int main()
     int vetor[] = {90 , 4 , 3 ,43 , 21 , 19 ,11}; 
     int n = sizeof(vetor) / sizeof(vetor[0]); 
 
-    printf("Vetor antes da ordenação:\n");
+    printf("Vetor antes da ordenação: \n");
     for (int i = 0; i < n; i++) {
         printf("%d ", vetor[i]);
     }
@@ -31,7 +31,7 @@ int main()
         
     int vetorOrdenado = bubblesort(vetor, n);
         
-    printf("Vetor dps de ordenar(insertionsort): \n");
+    printf("Vetor dps de ordenar(bubblesort): \n");
     for(int i = 0; i < n; i++){
         printf("%d ", vetorOrdenado[i]);
     }

@@ -18,7 +18,7 @@ typedef struct {
 void cadastrarRegistro(){
     Registro registro;
     FILE *arquivo;
-    arquivo = fopen("arquivo.bin", "ab");  // gravação, se nao tiver arquivo ele cria novo
+    arquivo = fopen("arquivo.bin", "ab"); 
     if(arquivo == NULL){
         printf("Erro ao abrir o arquivo \n");
     }else{

@@ -7,7 +7,7 @@ B = Matrix([x, y, z])
 C = Matrix([4, 5, 13])
 A
 
-A*B #Multiplicação de matrizes
+A*B 
 
 A1 = A.inv() #Calcula a matriz inversa de ' A ' *Este comando será muito utilizado*
 A1
